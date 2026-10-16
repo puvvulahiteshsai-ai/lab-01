@@ -5,6 +5,9 @@
 - Name: P.Hitesh sai
 - Registration number:252U1R9135
 - Section: S-26
+## Deployment
+
+- Live deployment URL: https://lab-01-mauve.vercel.app
 
 ## Project objective
 
@@ -97,9 +100,7 @@ The screenshots in this folder were supplied by the student and show the browser
 - Time page: ![Screenshot](./screenshots/time.png)
 - 404 response: ![Screenshot](./screenshots/not-found.png)
 
-## Deployment
 
-- Live deployment URL: https://lab-01-mauve.vercel.app
 
 The app uses `process.env.PORT` when a hosting provider supplies it and falls back to port 3000 for local use. This project has not been deployed by these instructions.
 
