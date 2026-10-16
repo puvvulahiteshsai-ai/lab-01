@@ -2,9 +2,9 @@
 
 ## Student information
 
-- **Name:** P.Hitesh sai
-- **Registration number:** 252U1R9135
-- **Section:** S-26
+- Name: P.Hitesh sai
+- Registration number:252U1R9135
+- Section: S-26
 
 ## Project objective
 
@@ -97,11 +97,9 @@ The screenshots in this folder were supplied by the student and show the browser
 - Time page: ![Screenshot](./screenshots/time.png)
 - 404 response: ![Screenshot](./screenshots/not-found.png)
 
-The not-found screenshot shows the response page. To capture the HTTP status code too, follow the Chrome Developer Tools steps above and save a separate screenshot with the Network request's **Status Code** visible.
-
 ## Deployment
 
-- **Live deployment URL:** [Add your deployed application URL here]
+- Live deployment URL:** https://lab-01-mauve.vercel.app
 
 The app uses `process.env.PORT` when a hosting provider supplies it and falls back to port 3000 for local use. This project has not been deployed by these instructions.
 
@@ -109,5 +107,5 @@ The app uses `process.env.PORT` when a hosting provider supplies it and falls ba
 
 Record any issues you encounter and how you resolved them. For example:
 
-- **Problem:** [Describe the problem.]
-- **Solution:** [Describe what fixed it.]
+- Problem: There was an problem in deployment in render
+- Solution: changed the provider to vercel now its running fine
