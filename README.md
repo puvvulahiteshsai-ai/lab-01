@@ -99,7 +99,7 @@ The screenshots in this folder were supplied by the student and show the browser
 
 ## Deployment
 
-- Live deployment URL:** https://lab-01-mauve.vercel.app
+- Live deployment URL: https://lab-01-mauve.vercel.app
 
 The app uses `process.env.PORT` when a hosting provider supplies it and falls back to port 3000 for local use. This project has not been deployed by these instructions.
 
